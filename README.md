@@ -1,6 +1,6 @@
 # BM-Internship-Exercise
 
-his is a simple exercise project to demonstrate basic GitHub functionality. It includes a basic HTML structure, CSS for styling, and a JavaScript file with a simple function.
+This is a simple exercise project to demonstrate basic GitHub functionality. It includes a basic HTML structure, CSS for styling, and a JavaScript file with a simple function.
 
 ## Files
 
